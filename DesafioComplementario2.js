@@ -5,7 +5,7 @@ calcula periodo a periodo el valor de la cuota (en sistema frances es fijo), y l
 Como asi tambien el saldo de capital periodo a periodo.
 Cargando todos los datos en forma ordenada en Arrays y mostrandolos por consola
 */
-console.log('Desafio entregable 1 esta en funcionamiento');
+console.log('Desafio entregable 2 esta en funcionamiento');
 alert('Calculadora de Credito')
 let ingreso=0
 let plazo=0
